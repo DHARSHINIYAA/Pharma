@@ -396,6 +396,13 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
+![Screenshot 2024-05-13 214526](https://github.com/DHARSHINIYAA/Pharma/assets/149560172/fab1a61e-39f9-4b39-abe0-9d57a99737ff)
+![Screenshot 2024-05-13 214607](https://github.com/DHARSHINIYAA/Pharma/assets/149560172/9a53115b-9aa0-4269-aa11-1016add8b644)
+![Screenshot 2024-05-13 214627](https://github.com/DHARSHINIYAA/Pharma/assets/149560172/075220fe-a51b-4a19-80bd-f6528649d7e8)
+![Screenshot 2024-05-13 214732](https://github.com/DHARSHINIYAA/Pharma/assets/149560172/2c963f5e-455e-4155-b6c6-8b5005d39b14)
+
+
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
